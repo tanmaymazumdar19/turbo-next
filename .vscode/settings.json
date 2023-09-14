@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "off",
+
+  "prettier.configPath": "./packages/config/prettier-preset.js",
+
+  "workbench.colorTheme": "Expo Light"
+}
